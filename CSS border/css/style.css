@@ -1,0 +1,8 @@
+div{
+    border: 1px solid black;
+    margin: 50px;
+    background-color: cadetblue; 
+    /*TOP / RIGHT / BOTTON / LEFT*/
+    padding: 25px 50px 75px 100px;
+
+}
